@@ -85,9 +85,9 @@ disp('Filtered audio saved as filtered_output.wav');
 ---
 ## MATLAB OUTPUT:
 
-<img width="324" height="274" alt="image" src="https://github.com/user-attachments/assets/eba32476-c55a-4a34-b9a6-00151897950f" />
+<img width="367" height="300" alt="image" src="https://github.com/user-attachments/assets/eba32476-c55a-4a34-b9a6-00151897950f" />
 
-<img width="324" height="274" alt="image" src="https://github.com/user-attachments/assets/23a85065-aa78-47e6-84e4-5e0bf0838727" />
+<img width="367" height="300" alt="image" src="https://github.com/user-attachments/assets/23a85065-aa78-47e6-84e4-5e0bf0838727" />
 
 
 ---
